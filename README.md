@@ -4,6 +4,10 @@ A python code to analyze code-switching data
 The script includes a function that reads textual data and outputs languge use percetage and plots. 
 A downloadable .csv file is also available –if desired.
 
+Even if the code is easy to use, it requires some coding knowledge. 
+The user must be able to create strings (e.g 'this is a string') and call functions (e.g this_function(calls_this_input)).
+The whole project is based on a singel function that creates everything else.
+
 Who is this for?
 -----------
 - Researchers on linguistics and NLP focused on code-switching tasks
