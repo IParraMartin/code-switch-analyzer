@@ -12,6 +12,6 @@ Benefits
 Limitations
 -----------
 - Code not ready for general purposes:
-  1. Needs more dictionary\
+  1. Needs more dictionary
   2. Needs to improvements to analyze full datasets
 - Only ready for Spanish and English code-switches
