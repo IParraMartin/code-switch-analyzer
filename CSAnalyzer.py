@@ -8,7 +8,8 @@ cs_input = input('Insert code switch here: ')
 tokens = cs_input.split()
 
 #set dictionaries ======= ADD BIGGER BANK =========
-sp_dic = es.words
+#need for some kind of dataset of english and spanish tokens
+sp_dic = es.words 
 en_dic = en.words 
 print(en_dic)
 
