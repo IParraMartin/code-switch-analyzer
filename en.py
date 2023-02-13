@@ -1,0 +1,1 @@
+words = ['how', 'are', 'you']
