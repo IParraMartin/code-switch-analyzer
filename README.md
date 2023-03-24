@@ -1,3 +1,6 @@
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/IParraMartin/code-switch-analyzer)
+![GitHub repo size](https://img.shields.io/github/repo-size/IParraMartin/code-switch-analyzer?color=red)
+
 # Code-switch-analyzer
 A python code to analyze code-switching data.
 
