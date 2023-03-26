@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Parra"
+  given-names: "Iñigo"
+title: "Code-switching Analyzer"
+version: 1.0.0
+date-released: 2022-12-20
+url: "https://github.com/IParraMartin/code-switch-analyzer"
